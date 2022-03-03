@@ -1,0 +1,1 @@
+# Flask application from book Flask Blueprint
